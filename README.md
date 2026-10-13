@@ -7,7 +7,8 @@ It overhauls movement, adds wave-based gameplay, competitive modes, and a variet
 > **⚠️ Important**  
 > This is **not** a finished product in any way.  
 > Builds will very likely not work properly (or at all) right now — that is completely normal.  
-> Expect crashes, missing features, broken systems, and frequent changes.  
+> Expect crashes, missing features, broken systems, and frequent changes.
+> THIS PROJECT IS NOW GETTING PORTED TO GOLD SOURCE AND I WILL STOP DEVELOPMENT OF THE SOURCE BRANCH, SOURCE SURGE GLD IS STILL WORK IN PROGRESS BUT ITS ON ITS WAY TO BE A GREAT MOD, THANKS FOR YOUR UNDERSTANDING, FOR MORE INFO JOIN THE DISCORD.
 
 ---
 
